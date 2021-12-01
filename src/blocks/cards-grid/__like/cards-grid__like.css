@@ -1,0 +1,11 @@
+.cards-grid__like {
+    margin-right: 20px;
+    margin-left: auto;
+    background-color: transparent;
+    cursor: pointer;
+    width: 22px;
+    height: 35px;
+    display: flex;
+    flex-direction: column;
+    align-self: center;
+}
